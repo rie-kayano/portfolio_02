@@ -1,0 +1,184 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  
+  width: auto;
+  font-family: 'Segoe Script','Papyrus','Noteworthy',sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+img {
+  max-width: 100%;
+}
+/*-----------------------ここからヘッダーだよ〜-----------------------------------------------------*/
+
+.body_container {
+    display: none;
+    
+}
+
+header {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  background-color: #f2f3f4;
+  height: 200px;
+  box-sizing: border-box;
+  
+  }
+
+
+
+
+
+  
+
+
+   
+/*---------------------------------------*/
+
+
+.header_sidemenu li:hover{
+  transition: all 1s;
+  font-size: 48px;
+ 
+}
+
+
+
+
+
+
+.header_sidemenu li {
+  font-size: 40px;
+  font-weight: bold;
+  color: #555555;
+  
+  
+}
+
+
+
+
+
+
+
+.header_container {
+  width: 960px;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  
+  
+  
+}
+
+.header_title {
+  padding-top: 50px;
+  font-size: 45px;
+  color: #555555;
+}
+.heaedr_menu_wrapper {
+  padding-top: 40px;
+ 
+}
+
+.heaedr_menu_wrapper a{
+  font-size: 25px;
+  margin: 30px;
+  color: #556666;
+  
+  
+
+}
+
+
+
+/*---------------------------ここからメインだよ〜-----------------------------------------*/
+
+main {
+  width: 100%;
+  text-align: center;
+  background-color: #c7d9d9;
+  
+ 
+  
+}
+
+.main_container {
+  width: 960px;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  
+ 
+  
+}
+.main_img_wrapper {
+  margin: 0 auto 0 auto;
+  height: 700px;
+  position: relative;
+}
+
+.main_img_kingyo {
+  position: absolute;
+  top: 30%;
+  left: 35%;
+}
+
+
+.main_img_hukidasi {
+  width: 200px;
+  height: auto;
+  position: absolute;
+  left: 51%;
+  top: 250px;
+}
+
+.main_img_hukidasi_link {
+  position: absolute;
+  left: 53%;
+  top: 48%;
+}
+
+.main_img_hukidasi_link a {
+  font-size: 25px;
+  letter-spacing: 0.2em;
+  color:  #556666;
+  font-weight: 700;
+  opacity: 0.7;
+}
+
+
+
+
+
+
+.main_img_kingyo {
+  padding-top: 100px;
+  width: 300px;
+  height: auto;
+}
+
+/*--------------------------フッターだよー--------------------------------------*/
+
+.footer_wrapper {
+ 
+  width: 100%;
+  background-color: #a3b4c4;
+  height: 100px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 20;
+}
+

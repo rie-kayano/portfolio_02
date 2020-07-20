@@ -30,6 +30,13 @@ header {
   height: 150px;
   
 }
+  
+  .header_title {
+    padding-top: 5px;
+    font-size: 20px;
+  }
+  
+  
 
 .header_sideber {
   display: initial;
@@ -81,10 +88,7 @@ header {
 
 @media(max-width:320px){
   
-  .header_title {
-    padding-top: 10px;
-    font-size: 25px;
-  }
+ 
   
   .main_img_hukidasi {
     top: 25%;

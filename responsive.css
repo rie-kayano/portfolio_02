@@ -27,7 +27,7 @@
   
  
 header {
-  height: 100px;
+  height: 50px;
   
 }
   
@@ -69,38 +69,11 @@ header {
   left: 55%;
 }
   .footer_wrapper {
-    height: 100px;
+    height: 50px;
 }
 
-@media(max-width:375px) {
-  .main_img_hukidasi {
-    left: 46%;
-    width: 180px;
-    height: auto;
-  }
 
-  .main_img_hukidasi_link {
-    left: 53%;
-    top: 38%;
-  }
-  .main_img_hukidasi_link a {
-    font-size: 23px;
-  }
-}
 
-@media(max-width:320px){
-  
- 
-  
-  .main_img_hukidasi {
-    top: 25%;
-    left: 43%;
-  }
-
-  .main_img_hukidasi_link {
-    top: 35%;
-  }
-}
 
 @media(min-height:700px) {
   .main_img_wrapper {

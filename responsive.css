@@ -1,0 +1,182 @@
+@media(max-width:960px){
+  .header_container {
+    width: auto;
+  }
+  .main_container {
+    width: auto;
+  }
+
+  .main_img_wrapper {
+    width: auto;
+  }
+
+  .main_img_kingyo {
+    left: 30%;
+  }
+
+  .main_img_hukidasi_link {
+    left: 54%;
+  }
+
+  
+
+  
+}
+
+@media(max-width:560px){
+  
+ 
+header {
+  height: 150px;
+  
+}
+
+.header_sideber {
+  display: initial;
+}
+
+.header_title {
+  font-size: 35px;
+}
+
+.heaedr_menu_wrapper {
+  display: none;
+}
+
+
+
+.main_img_kingyo {
+ width: 65%;
+ top: 20%;
+ left: 10%;
+}
+
+
+.main_img_hukidasi {
+  top: 28%;
+  left: 48%;
+}
+  
+.main_img_hukidasi_link  {
+  top: 40%;
+  left: 55%;
+}
+}
+
+@media(max-width:375px) {
+  .main_img_hukidasi {
+    left: 46%;
+    width: 180px;
+    height: auto;
+  }
+
+  .main_img_hukidasi_link {
+    left: 53%;
+    top: 38%;
+  }
+  .main_img_hukidasi_link a {
+    font-size: 23px;
+  }
+}
+
+@media(max-width:320px){
+  .main_img_hukidasi {
+    top: 25%;
+    left: 43%;
+  }
+
+  .main_img_hukidasi_link {
+    top: 35%;
+  }
+}
+
+@media(min-height:700px) {
+  .main_img_wrapper {
+    height: 700px;
+  }
+
+  .footer_wrapper{
+    height: 130px;
+  }
+}
+
+@media(max-height:414px) {
+  header {
+    height: 100px;
+  }
+
+  .header_title {
+    padding-top: 10px;
+    font-size: 25px;
+  }
+
+  .heaedr_menu_wrapper  {
+    padding-top: 10px;
+  }
+
+  .heaedr_menu_wrapper a {
+    font-size: 20px;
+  }
+
+  .main_img_wrapper {
+    height: 360px;
+
+
+    }
+
+    .main_img_kingyo {
+      width: 200px;
+      height: auto;
+      top: 8%;
+    }
+
+    .main_img_hukidasi {
+      width: 100px;
+      height: auto;
+      top: 36%;
+    }
+
+    .main_img_hukidasi_link a {
+      font-size: 20px;
+    }
+
+  .footer_wrapper {
+    height: 55px;
+  }
+}
+
+@media (max-height:320px){
+  .main_img_wrapper {
+    height: 320px;
+  }
+
+  .main_img_kingyo {
+    width: 140px;
+    height: auto;
+}
+.main_img_hukidasi{
+  width: 80px;
+  height: auto;
+}
+}
+
+@media(min-height:1024px) {
+
+
+
+
+  .main_img_wrapper {
+    height: 1024px;
+  }
+
+  
+}
+
+
+
+@media(min-height:1366px) {
+  .main_img_wrapper {
+    height: 1366px;
+  }
+  
+}

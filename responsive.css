@@ -80,6 +80,12 @@ header {
 }
 
 @media(max-width:320px){
+  
+  .header_title {
+    padding-top: 10px;
+    font-size: 25px;
+  }
+  
   .main_img_hukidasi {
     top: 25%;
     left: 43%;

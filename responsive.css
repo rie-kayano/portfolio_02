@@ -1,6 +1,8 @@
 
 
-@media(max-width:760px){
+
+/*-----------------------------*/
+@media(max-width:960px){
   header{
     height: 50px;
   }
@@ -8,9 +10,7 @@
     height: 50px;
   }
 
-  .header_container {
-    width: auto;
-  }
+  
   .header_title {
     padding-top: 0px;
     font-size: 20px;
@@ -21,15 +21,6 @@
     display: none;
   }
   
-  .main_container {
-    width: auto;
-  }
-
-  .main_img_wrapper {
-    width: 100%;
-    height: 460px;
-  }
-
   .main_img_kingyo {
     width: 180px;
     height: auto;
@@ -42,6 +33,18 @@
 
   .main_img_hukidasi_link a {
     font-size: 15px;
+  }
+  .header_container {
+    width: auto;
+  }
+
+  .main_container {
+    width: auto;
+  }
+
+  .main_img_wrapper {
+    width: 100%;
+    height: 460px;
   }
 
 }

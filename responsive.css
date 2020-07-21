@@ -49,3 +49,10 @@
   }
 
 }
+
+@media(max-height:414px){
+  .main_img_wrapper {
+    height: 360px;
+  }
+
+}

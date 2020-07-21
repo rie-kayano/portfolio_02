@@ -25,6 +25,10 @@
     width: 560px;
   }
 
+  .main_img_wrapper {
+    height: 500px;
+  }
+
   .main_img_kingyo {
     width: 180px;
     height: auto;

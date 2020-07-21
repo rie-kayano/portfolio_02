@@ -23,6 +23,24 @@
   
 }
 
+@media (max-height:420px){
+  header {
+    height: 50px;
+  }
+
+  .main_img_kingyo {
+    width: 140px;
+    height: auto;
+}
+.main_img_hukidasi{
+  width: 80px;
+  height: auto;
+}
+  footer_wrapper {
+    height:50px;
+}
+
+
 @media(max-width:560px){
   
  
@@ -85,22 +103,6 @@ header {
 
 
 
-@media (max-height:420px){
-  header {
-    height: 50px;
-  }
-
-  .main_img_kingyo {
-    width: 140px;
-    height: auto;
-}
-.main_img_hukidasi{
-  width: 80px;
-  height: auto;
-}
-  footer_wrapper {
-    height:50px;
-}
 
 @media(min-height:1024px) {
 

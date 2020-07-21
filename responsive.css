@@ -9,7 +9,7 @@
   }
 
   .header_container {
-    width: 560px;
+    width: auto;
   }
   .header_title {
     padding-top: 0px;
@@ -22,11 +22,11 @@
   }
 
   .main_container {
-    width: 560px;
+    width: auto;
   }
 
   .main_img_wrapper {
-    height: 500px;
+    height: 460px;
   }
 
   .main_img_kingyo {

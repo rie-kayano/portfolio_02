@@ -55,6 +55,11 @@
     height: 50px;
      line-height: 50px;
   }
+  .header_title {
+    
+    line-height: 50px;
+  }
+  
   .footer_wrapper {
     height: 50px;
   }

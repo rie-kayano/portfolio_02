@@ -23,7 +23,7 @@
   
 }
 
-@media(max-width:660px){
+@media(max-width:560px){
   
  
 header {
@@ -83,54 +83,11 @@ header {
   }
 }
 
-@media(max-height:414px) {
+
+
+@media (max-height:420px){
   header {
-    height: 100px;
-  }
-
-  .header_title {
-    padding-top: 10px;
-    font-size: 25px;
-  }
-
-  .heaedr_menu_wrapper  {
-    padding-top: 10px;
-  }
-
-  .heaedr_menu_wrapper a {
-    font-size: 20px;
-  }
-
-  .main_img_wrapper {
-    height: 360px;
-
-
-    }
-
-    .main_img_kingyo {
-      width: 200px;
-      height: auto;
-      top: 8%;
-    }
-
-    .main_img_hukidasi {
-      width: 100px;
-      height: auto;
-      top: 36%;
-    }
-
-    .main_img_hukidasi_link a {
-      font-size: 20px;
-    }
-
-  .footer_wrapper {
-    height: 55px;
-  }
-}
-
-@media (max-height:320px){
-  .main_img_wrapper {
-    height: 320px;
+    height: 50px;
   }
 
   .main_img_kingyo {
@@ -141,6 +98,8 @@ header {
   width: 80px;
   height: auto;
 }
+  footer_wrapper {
+    height:50px;
 }
 
 @media(min-height:1024px) {

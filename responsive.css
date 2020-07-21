@@ -12,12 +12,17 @@
     width: 560px;
   }
   .header_title {
+    padding-top: 0px;
     font-size: 20px;
     line-height: 50px;
   }
 
   .heaedr_menu_wrapper {
     display: none;
+  }
+
+  .main_container {
+    width: 560px;
   }
 
   .main_img_kingyo {

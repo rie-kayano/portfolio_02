@@ -29,10 +29,7 @@
   }
 
   .main_img_hukidasi {
-    width: 100px;
-    height: auto;
-    top: 10%;
-    left: 30%;
+     display: none;
   }
 
   .main_img_hukidasi_link a {

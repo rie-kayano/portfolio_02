@@ -2,7 +2,7 @@
 
 
 /*-----------------------------*/
-@media(max-width:960px){
+@media(min-width:960px){
   header{
     height: 80px;
   }
@@ -45,12 +45,12 @@
 
   .main_img_wrapper {
     width: 100%;
-    height: auto;
+    height: 1000px;
   }
 
 }
 
-@media(max-height:414px){
+@media(min-width:414px){
    header{
     height: 50px;
      line-height: 50px;

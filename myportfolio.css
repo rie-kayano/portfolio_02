@@ -1,14 +1,3 @@
-@media (min-width: 960px) {
-  /*960px〜2つ目のブレークポイントです。
-タブレット横画面とPC向けの画面サイズ960px〜です。
-iPad 横画面、
-iPad mini 横画面、
-iPad Air 横画面、
-iPad Pro 10.5" 横画面、
-iPad Pro 11" 横画面、
-iPad Pro 12.9" 縦画面、
-iPad Pro 12.9" 横画面*/
-  
 *{
   padding: 0;
   margin: 0;
@@ -32,6 +21,19 @@ a {
 img {
   max-width: 100%;
 }
+
+@media (min-width: 960px) {
+  /*960px〜2つ目のブレークポイントです。
+タブレット横画面とPC向けの画面サイズ960px〜です。
+iPad 横画面、
+iPad mini 横画面、
+iPad Air 横画面、
+iPad Pro 10.5" 横画面、
+iPad Pro 11" 横画面、
+iPad Pro 12.9" 縦画面、
+iPad Pro 12.9" 横画面*/
+  
+
 /*-----------------------ここからヘッダーだよ〜-----------------------------------------------------*/
 
 

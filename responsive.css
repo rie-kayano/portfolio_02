@@ -14,14 +14,23 @@
   iPhone XS Max 横画面〜 959px*/
   
 
+    
   .footer_wrapper {
     position: static;
+    width: 100%;
+  }
+
+  .main_img_wrapper {
+    width: 100%;
+    
   }
  
   .main_img_kingyo {
     width: 30%;
     height: auto;
-    top: 5%;
+    top: 10%;
     left: 30%;
   }
+
+  
 }

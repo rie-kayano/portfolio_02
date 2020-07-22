@@ -12,27 +12,14 @@
   iPad Pro 11" 縦画面
   iPhone XR 横画面
   iPhone XS Max 横画面〜 959px*/
-  header{
-    height: 100px;
-    
-  }
-
-  .header_title {
-    padding-top: 10px;
-    font-size: 25px;
-    line-height: 80px;
-  }
-  .heaedr_menu_wrapper {
-    display: flex;
-    flex-wrap: wrap;
-  }
+  
 
   .footer_wrapper {
     position: static;
   }
  
   .main_img_kingyo {
-    width: 10%;
+    width: 30%;
     height: auto;
     top: 5%;
     left: 30%;
